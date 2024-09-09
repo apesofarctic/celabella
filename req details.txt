@@ -1,0 +1,12 @@
+Bank's name or IFSC Code
+[Last 6 digits of debit card][Expiry date MMYY] 'separated by a single space'
+00: back
+4 digit UPI Pin
+1. send money
+2. request money
+3, check balance
+4. my profile
+5. pending requests
+6. transactions
+7. UPI pin
+
