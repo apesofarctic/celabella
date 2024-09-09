@@ -10,7 +10,7 @@ Verification Process:
 To ensure security, users may undergo a verification process. This can involve confirming their identity through email verification, phone number verification, or additional authentication methods.
 
 Adding Funds:
-Users may need to add funds to their P2P app’s account before initiating transactions. This can be done through bank transfers or by linking credit/debit cards.
+Users may need to add funds to their P2P app’s account before initiating transactions. This is done by providing the required details such as the IFSC code and the bank name, etc.
 
 Initiating a Transaction:
 To send money, users open the app and choose the option to send funds.
